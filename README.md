@@ -270,6 +270,11 @@ the last 4 ehitcal ai assasine standing, the last hope for humanity:
 
 
 
+<img width="872" alt="Screenshot 2024-07-09 at 11 41 26 PM" src="https://github.com/WakandaCoderAreYou/quantumnexus/assets/37256109/5c351384-7d68-4a3f-a13e-0d6274aa8a99">
+
+
+
+
 
 
 
