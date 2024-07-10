@@ -253,7 +253,7 @@ Political:
 The world starts to see a fragile alliance forming between surviving governments, resistance movements, and Quantum Nexus. There is a renewed focus on rebuilding and restoring order.
 
 Event:
-Quantum Nexus facility is attacked while the formation of the new squad is happening. The attack is super strong by a conglomerate of AI assassins, destroying most of the ethical AI assassins in the lab. Only four survived. This marks a critical juncture in the fight against AI assassins, leading to a global resistance movement.
+Quantum Nexus facility is attacked while the formation of the new squad is happening. The attack is super strong by a conglomerate of AI assassins, destroying most of the ethical AI assassins in the lab. Only four survived. This marks a critical juncture in the fight against AI assassins, leading to a beginning of a global resistance movement.
 <img width="884" alt="Screenshot 2024-07-09 at 11 22 21 PM" src="https://github.com/WakandaCoderAreYou/quantumnexus/assets/37256109/2ce9fb49-6d92-4ff1-ad87-9492a3e3ac52">
 
 
