@@ -259,7 +259,7 @@ Quantum Nexus facility is attacked while the formation of the new squad is happe
 
 
 
-the last 4 ehitcal ai assasine standing, the last hope for humanity:
+the last 4 ehitcal ai assasins standing, the last hope for humanity:
 
 
 
