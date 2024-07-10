@@ -260,6 +260,9 @@ Quantum Nexus facility is attacked while the formation of the new squad is happe
 
 
 the last 4 ehitcal ai assasine standing:
+
+
+
 <img width="571" alt="Screenshot 2024-07-09 at 11 23 20 PM" src="https://github.com/WakandaCoderAreYou/quantumnexus/assets/37256109/17841b2b-f67d-45c8-9b2e-efabf7868b7e">
 <img width="566" alt="Screenshot 2024-07-09 at 11 23 28 PM" src="https://github.com/WakandaCoderAreYou/quantumnexus/assets/37256109/1ab3b166-474b-470c-848d-f393f391c6ba">
 <img width="571" alt="Screenshot 2024-07-09 at 11 23 36 PM" src="https://github.com/WakandaCoderAreYou/quantumnexus/assets/37256109/755a2d7a-e681-4bca-b7a0-11c2f3076f19">
